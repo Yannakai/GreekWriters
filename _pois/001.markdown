@@ -1,7 +1,11 @@
 ---
 layout: poi
-wikidatum: Q121378
-title:  Κέρκυρα
+wikidatum: Q136506564
+title:  Vasilis Chouliaras
+---
+layout: poi
+wikidatum: Q136557095
+title:  Giorgos Gotis
 ---
 
 Sample text
