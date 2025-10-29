@@ -4,6 +4,7 @@ title: POIs List
 permalink: /pois/
 
 ---
+<h1>{{ page.title }}</h1>
 
 <ul>
   {% for p in site.pois %}
